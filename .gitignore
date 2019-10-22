@@ -6,6 +6,5 @@ yarn-error.log*
 config.js
 .env
 node_modules
-package.json
 package-lock.json
 yarn.lock
